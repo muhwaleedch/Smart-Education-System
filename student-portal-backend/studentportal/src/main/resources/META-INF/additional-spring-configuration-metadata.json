@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "com.fyp.studentportal.jwt",
+      "type": "java.lang.String",
+      "description": "Description for com.fyp.studentportal.jwt."
+  }
+] }
